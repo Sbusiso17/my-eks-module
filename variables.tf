@@ -77,7 +77,7 @@ variable "public_ip_launch" {
 # Variable for azs
 #variable "subnet_azs" {
 #  type    = list(string)
-#  default = ["eu-west-2a", "eu-west-2b"]
+#  default = ["us-east-1a", "us-east-2b"]
 #}
 
 # variable for Private subnets cidrs
